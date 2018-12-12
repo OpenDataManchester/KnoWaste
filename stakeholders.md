@@ -8,7 +8,7 @@ Noteable organistations (and types of organisations) involved in the UK business
 
 ## Regulators
 
-The organisations that ensures compliance with laws, regulations, and established rules for waste disposal in the UK.
+The organisations that ensure compliance with laws, regulations, and established rules for waste disposal in the UK.
 
   - Department for Environment, Food and Rural Affairs ([DEFRA](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs))
   - Scottish Environment Protection Agency [SEPA](https://www.sepa.org.uk/about-us/) is the regulator for **Scotland**
@@ -17,7 +17,7 @@ The organisations that ensures compliance with laws, regulations, and establishe
   - [Natural Resources Wales](https://naturalresources.wales/) is the regulator for **Wales** [Source: [Dispose of business or commercial
     waste: Contacts](https://www.gov.uk/managing-your-waste-an-overview/contacts)]
 
-# Others
+## Others
 
   - **Waste Carrier** is registered to collect and transport waste and can be a **Waste Producer** or **Waste Holder** disposing of their own waste [Source: [Dispose of business or commercial
     waste](https://www.gov.uk/managing-your-waste-an-overview), [Hazardous waste](https://www.gov.uk/dispose-hazardous-waste)
