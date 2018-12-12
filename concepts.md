@@ -203,7 +203,7 @@ Details taken from v5.3.6 on 12 December 2018. This is the document the **Waste 
 GOV.UK](https://www.gov.uk/guidance/hazardous-waste-returns-supplementary-guidance)
 
   - **Consignment Note Number** (Scotland and Northern Ireland have different numbers, England and Wales are the same)
-  - **Single Consignment** or **Multiple Consignment** (Multiple collections apply only to England or Wales)
+  - **Single or Multiple Consignment*: **Single Consignment** or **Multiple Consignment** (Multiple collections apply only to England or Wales)
   - **Round Number** (Guidance varies for collecting waste(s) from several producers)
   - **Collection Number**
   - **Date Received** (dd/mm/yyyy)
@@ -212,8 +212,8 @@ GOV.UK](https://www.gov.uk/guidance/hazardous-waste-returns-supplementary-guidan
   - **EWC Code**
   - **Hazard**
   - **Physical Form**
-  - **Quantity** (kilograms)
-  - **Mode of Disposal" or *Mode of Recovery**
+  - **Quantity (kilograms)**
+  - **Mode of disposal / recovery**: **Mode of Disposal** or **Mode of Recovery**
 
 #### Sites with 2 or more authorisations
 
