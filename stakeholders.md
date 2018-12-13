@@ -23,9 +23,8 @@ The organisations that ensure compliance with laws, regulations, and established
     waste](https://www.gov.uk/managing-your-waste-an-overview), [Hazardous waste](https://www.gov.uk/dispose-hazardous-waste)
     - **Waste Dealer** carries the waste themselves (see also **Waste Carrier**)
     - **Waste Broker** arranges for others to carry waste (also **Waste Dealer** and intermediary)
-    - **Waste Carrier** is also referred to as an **Authorised Business**<sup>[\[1\]](#ftnt1)</sup> (when registered) and **Waste
-    Contractor**<sup>[\[2\]](#ftnt2)</sup>.
-    - A **Specialist Waste Contractor**<sup>[\[3\]](#ftnt3)</sup> can provide advice on if waste is hazardous or not
+    - **Waste Carrier** is also referred to as an **Authorised Business**<sup>[\[1\]](#ftnt1)</sup> (when registered), **Waste Contractor**<sup>[\[2\]](#ftnt2)</sup> and **Waste Handler**<sup>[\[5\]](#ftnt5)</sup>
+    - A **Specialist Waste Contractor**<sup>[\[3\]](#ftnt3)</sup> can provide advice on if waste is hazardous or not    
     
     NB: **Waste Carrier**, **Waste Broker** and **Waste Dealer** does both - carries waste themselves and arranges for others to carry waste \[Source: [Register as a waste carrier](https://wastecarriersregistration.service.gov.uk/registrations/find?locale%3Den)] 
     
@@ -53,3 +52,5 @@ The organisations that ensure compliance with laws, regulations, and established
 [\[3\]](#ftnt_ref3) https://www.gov.uk/how-to-classify-different-types-of-waste
 
 [\[4\]](#ftnt_ref4) https://www.gov.uk/waste-carrier-or-broker-registration
+
+[\[5\]](#ftnt_ref5) "Information Pack Overview for GovTech partners"
