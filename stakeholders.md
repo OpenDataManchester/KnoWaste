@@ -13,9 +13,10 @@ The organisations that ensure compliance with laws, regulations, and established
   - Department for Environment, Food and Rural Affairs ([DEFRA](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs))
   - Scottish Environment Protection Agency [SEPA](https://www.sepa.org.uk/about-us/) is the regulator for **Scotland**
   - Department of Agriculture, Environment and Rural Affairs ([DAERA](https://www.daera-ni.gov.uk/)) is the regulator for **Northern Ireland**
-  - [The Environment Agency](https://www.gov.uk/government/organisations/environment-agency) is the regulator for **Hazardous Waste** in **England** [Source: [Dispose of business or commercial waste: Contacts](https://www.gov.uk/managing-your-waste-an-overview/contacts)]
-  - [Natural Resources Wales](https://naturalresources.wales/) is the regulator for **Wales** [Source: [Dispose of business or commercial
-    waste: Contacts](https://www.gov.uk/managing-your-waste-an-overview/contacts)]
+  - [The Environment Agency](https://www.gov.uk/government/organisations/environment-agency) is the regulator for **Hazardous Waste** in **England** 
+  - [Natural Resources Wales](https://naturalresources.wales/) is the regulator for **Wales** 
+
+[Source: [Dispose of business or commercial waste: Contacts](https://www.gov.uk/managing-your-waste-an-overview/contacts)]
 
 ## Others
 
