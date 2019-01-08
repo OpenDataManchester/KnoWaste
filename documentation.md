@@ -48,6 +48,12 @@ If the **Waste Holder** makes a mistake, they can 'Re-classify'. We need to know
 
 **Questions**
 1. Should the **Waste Holder** be aware of weights and containers used for waste at this point?
-2. Does the Waste Holder need to know every time waste was re-classified?
+2. Does the **Waste Holder** need to know every time waste was re-classified?
 
+### Discovery
 
+Explore and understand what is required to be able to move waste
+
+![alt text][nhw_d]
+
+[nhw_d]: https://github.com/OpenDataManchester/KnoWaste/blob/master/Data%20Flow_%20Non-Hazardous%20Waste_%20Discovery.png "Data Flow: Non-Hazardous Waste: Discovery"
