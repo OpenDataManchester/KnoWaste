@@ -18,7 +18,7 @@ The organisations that ensure compliance with laws, regulations, and established
 
 [Source: [Dispose of business or commercial waste: Contacts](https://www.gov.uk/managing-your-waste-an-overview/contacts)]
 
-## Others
+## Other Stakeholders
 
 A **Waste Holder** (in England & Wales) is anyone who imports, produces, carries, keeps, treats, disposes 
 of, or are a dealer or broker that has control of, **Controlled Waste**. 
