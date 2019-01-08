@@ -21,8 +21,7 @@ The organisations that ensure compliance with laws, regulations, and established
 ## Others
 
 A **Waste Holder** (in England & Wales) is anyone who imports, produces, carries, keeps, treats, disposes 
-of, or are a dealer or broker that has control of, **Controlled Waste**. [Source: [Waste Duty of Care Code of 
-Practice November 2018](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/759083/waste-code-practice-2018.pdf)] 
+of, or are a dealer or broker that has control of, **Controlled Waste**. 
 
 Including:
 
@@ -34,6 +33,5 @@ Including:
 | **Waste Broker** | Any person, business or organisation that arranges waste transportation and management of waste on behalf of another party |
 | **Waste Manager** | Any person involved in the collection, transport, recovery or disposal of controlled waste | 
 
-
-  
-  
+[Source: [Waste Duty of Care Code of 
+Practice November 2018](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/759083/waste-code-practice-2018.pdf)] 
