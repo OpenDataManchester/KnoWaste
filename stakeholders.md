@@ -35,3 +35,7 @@ Including:
 
 [Source: [Waste Duty of Care Code of 
 Practice November 2018](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/759083/waste-code-practice-2018.pdf)] 
+
+A **Holder of Waste** (in Scotland) is the producer of the waste or the natural or legal person that is in possession of it or who has control of it.
+
+[Source: [Duty of Care – A Code of Practice](https://www2.gov.scot/Resource/0040/00404095.pdf)] 
