@@ -48,7 +48,7 @@ If the **Waste Holder** makes a mistake, they can 'Re-classify'. We need to know
 
 **Questions**
 1. Should the **Waste Holder** be aware of weights and containers used for waste at this point?
-2. Does the **Waste Holder** need to know every time waste was re-classified?
+2. Does the **Waste Holder** (or any other stakehokder) need to know every time waste is re-classified?
 
 ### Discovery
 
@@ -84,3 +84,40 @@ Next, the **Waste Holder** chooses a **Waste Processor**. To 'Select', we need t
 **Questions**
 1. what the **Waste Holder** needs to do and to track when assessing a **Waste Processor**?
 2. Does the **Waste Holder** need to track changes of selected **Waste Processor** for auditing or other purposes?
+
+## Waste Management Scenarios
+
+Waste can be:
+
+| Management  | EWC Code | Source | Destination |
+|---|---|---|---|
+| Aggregated  | Same  | Different | Same  |
+| Co-mingled  | Different | Different | Same  |
+| Disposed  | Same | Same | Same  |
+| Separated  | Same  | Same  | Different  |
+| Transformed  | Same  | Same  | Same  |
+
+To simplify waste tracking, waste consignments are issued a unique number, the **Waste Consignment Number** by the orignal **Waste Producer** that is shared with the duty of care note. The strategies below could help track waste in these waste management situations:
+
+### Aggregated Waste
+
+Waste from different sources with the same **EWC Code** are added together. The new, aggregated waste is issued a new, unique **Waste Consignment Number**. The **Waste Holder** stores a list of all incoming **Waste Consignment Number** that are part of this new waste consignment. A new duty of care note is produced and the codes generated are passed along.
+
+### Co-mingled Waste
+
+Waste from different sources with different **EWC Code** are added together. The new, aggregated waste is issued a new, unique **Waste Consignment Number**. The **Waste Holder** stores a list of all incoming **Waste Consignment Number** and **EWC Code** that are part of this new waste consignment. A new duty of care note is produced and the codes generated are passed along.
+
+### Disposed Waste
+
+Waste from the same source with the same **EWC Code** is sent to a final destination, for example, landfill. The **Waste Consignemnt Number** is retained and a final destination status or new **EWC Code** if necessary. A new duty of care note is produced and the existing code is passed along.
+
+### Separated Waste
+
+Waste from the same source with the same **EWC Code** is split. The new waste consignments are issued a new, unique **Waste Consignment Number** each and **EWC Code** if necessary. The **Waste Holder** stores the incoming **Waste Consignment Number** and **EWC Code** that were part of the originsl waste consignment. New duty of care notes are produced and the codes are passed along.
+
+### Transformed Waste
+
+Waste from the same source with the same **EWC Code** is changed. The new waste consignment is issued a new **EWC Code** if necessary and a code or description of the final product type. The **Waste Holder** stores the incoming **Waste Consignment Number** and **EWC Code** that were part of the originsl waste consignment. New duty of care notes are produced and the codes are passed along.
+
+**Questions**
+1. Do the journeys make sense?
