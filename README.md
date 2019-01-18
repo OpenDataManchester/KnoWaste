@@ -8,7 +8,12 @@
 
 Words in **Bold** are important stakeholders, concepts or document for UK business waste. Phases and stages from the DEFRA discovery documents are shown in 'single quotes'.
 
-## Introduction
+## Table of contents
+1. [Introduction](#introduction)
+2. [The KnoWaste Data Standard](#knowaste_data_standard)
+3. [How Waste is Managed](#how_waste_is_managed)
+
+## Introduction <a name="introduction"></a>
 
 **The Future of Waste is Smart**
 
@@ -47,10 +52,21 @@ Smart waste means smart use of data to stitch together the patchwork of today’
 
 *Fast, easily combined data for tracking & accountability*
 
-Among the many technologies that support smarter waste, open standards for data make an excellent starting point. Good quality, timely, easy to access data is essential to support fast, easily combined data for tracking and accountability in waste.
+Among the many technologies that support smarter waste, [open standards for data](http://standards.theodi.org/) make an excellent starting point. Good quality, timely, easy to access data is essential to support fast, easily combined data for tracking and accountability in waste.
 
+## The KnoWaste Data Standard <a name="knowaste_data_standard"></a>
 
-## Waste Management Scenarios
+![alt text][kds_1]
+
+[kds_1]: https://github.com/OpenDataManchester/KnoWaste/blob/master/images/KnoWaste%20-%20The%20Data%20Standard.png "The KnoWaste Data Standard"
+
+Our solution, in collaboration with [Dsposal](https://dsposal.uk/), [University of Bradford](https://www.bradford.ac.uk) and [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs) is the **KnoWaste Data Standard**. The standard has 3 parts:
+
+* A #SmartWaste standard to handle tracking and auditing of waste holders waste jobs, waste containers
+* An electronic **Duty of Care Document** for consistent completion of non-hazardous waste documentation
+* An electronic **Consignment Note** to support consistent completion of hazardous waste documentation
+
+## How Waste is Managed <a name="how_waste_is_managed"></a>
 
 Waste management is the process of storing waste, transforming waste into a non-waste state (for example: recycling) or disposing of waste (for example: sending waste to landfill). 
 
