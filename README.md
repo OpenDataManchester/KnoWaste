@@ -12,6 +12,8 @@ Words in **Bold** are important stakeholders, concepts or document for UK busine
 
 **The Future of Waste is Smart**
 
+*#SmartWaste = Tracking + Accountability*
+
 The UK as a whole is moving towards sustainability by reducing, re-using and recycling. Each nation seeks to preserve resources, minimise waste, send less to landfill, protect our ecology and make a positive impact on climate change. The future of waste is smart waste, efficiently tracking waste to it’s final destination and accountability for waste throughout it’s lifecycle.
 
 Find out more:
@@ -21,9 +23,31 @@ Find out more:
 * [Waste Management Strategy: Northern Ireland](https://www.daera-ni.gov.uk/articles/waste-management-strategy)
 * [Towards Zero Waste: Wales](https://gov.wales/topics/environmentcountryside/epq/waste_recycling/zerowaste/?lang=en)
 
-**Future of Waste Accountability**
+**The Future of Waste Accountability**
 
-What do we mean by accountability? That everyone handling waste knows with a high-degree of certainty their responsibilies for handling waste and where their waste ended up
+*Knowing “Where did my business waste go?”*
+
+What do we mean by accountability? That everyone handling waste knows with a high-degree of certainty their responsibilities for handling waste and where their waste ended up
+
+
+**The Future of Waste Tracking**
+
+*Knowing “Where is my business waste now?”*
+
+Efficiently tracking waste is the way to ensure everyone knows where the waste they handled is right now and can follow the journey of waste containers to their final destination.
+
+**#SmartWaste means smart use of data**
+
+*Stitching together the waste data patchwork*
+
+Smart waste means smart use of data to stitch together the patchwork of today’s waste data including returns from permitted sites, voluntary initiatives and one-off surveys. We know from HM Government’s [Resources and Waste Strategy for England](https://www.gov.uk/government/publications/resources-and-waste-strategy-for-england) that waste data is time-consuming, complex to use and doesn’t support effective tacking of waste crime. We know today’s technologies can help make better use of waste data to become a zero waste society.
+
+
+**Open Standards Make Waste Smarter**
+
+*Fast, easily combined data for tracking & accountability*
+
+Among the many technologies that support smarter waste, open standards for data make an excellent starting point. Good quality, timely, easy to access data is essential to support fast, easily combined data for tracking and accountability in waste.
 
 
 ## Waste Management Scenarios
