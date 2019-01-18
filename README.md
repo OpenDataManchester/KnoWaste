@@ -58,7 +58,7 @@ Among the many technologies that support smarter waste, [open standards for data
 
 ![alt text][kds_1]
 
-[kds_1]: https://github.com/OpenDataManchester/KnoWaste/blob/master/images/KnoWaste%20-%20The%20Data%20Standard.png "The KnoWaste Data Standard"
+[kds_1]: https://github.com/OpenDataManchester/KnoWaste/blob/master/images/The%20KnoWaste%20Data%20Standard.png "The KnoWaste Data Standard"
 
 Our solution, in collaboration with [Dsposal](https://dsposal.uk/), [University of Bradford](https://www.bradford.ac.uk) and [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs) is the **KnoWaste Data Standard**. The standard has 3 parts:
 
