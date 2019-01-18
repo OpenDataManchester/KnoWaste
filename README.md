@@ -60,11 +60,33 @@ Among the many technologies that support smarter waste, [open standards for data
 
 [kds_1]: https://github.com/OpenDataManchester/KnoWaste/blob/master/images/The%20KnoWaste%20Data%20Standard.png "The KnoWaste Data Standard"
 
-Our solution, in collaboration with [Dsposal](https://dsposal.uk/), [University of Bradford](https://www.bradford.ac.uk) and [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs) is the **KnoWaste Data Standard**. The standard has 3 parts:
+Our solution, in collaboration with [Dsposal](https://dsposal.uk/), [University of Bradford](https://www.bradford.ac.uk) and [Defra](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs) is the **KnoWaste Data Standard**. 
+
+The standard has 3 parts:
 
 * A #SmartWaste standard to handle tracking and auditing of waste holders waste jobs, waste containers
 * An electronic **Duty of Care Document** for consistent completion of non-hazardous waste documentation
 * An electronic **Consignment Note** to support consistent completion of hazardous waste documentation
+
+**Unique Identifiers**
+
+*The secret to making #SmartWaste possible*
+
+Identifiers are the most important part of the KnoWaste data standard. These little codes allow us to pinpoint and follow a waste container and a waste job till it reaches a final destination. We can tell when new documentation was raised, when the contents of a waste container was stored, changed or entered landfill. With this data in place, we can take advantage of other technologies to keep track of waste and make auditing easier and faster.
+
+Find out more:
+
+* [A unique challenge for the charitable sector](https://www.acf.org.uk/news/guest-blog-a-unique-challenge-for-the-charitable-sector)
+* [Little, unique codes hold our world together](https://www.threesixtygiving.org/2018/05/21/little-unique-codes-hold-world-together/)
+* [Identity & identifiers: what we’ve learned](https://openownership.org/news/identity-and-identifiers-what-weve-learned/)
+
+**Who & What to Track & Audit**
+
+![alt text][kds_2]
+
+[kds_2]: https://github.com/OpenDataManchester/KnoWaste/blob/master/images/KnoWaste%20-%20Who%20&amp;%20What%20to%20Track%20&amp;%20Audit.png "Who & What to Track & Audit"
+
+In UK waste management, waste is produced by a **Waste Producer** who stores and classifies waste before handing it over to a **Waste Processor**. The **Waste Processor** managea waste till it reaches a final site (for example: landfill) or a final state (for example: recycled). Waste comes in **Waste Containers** and a **Waste Job** could be for several **Waste Containers**. If waste is not hazardous, the main document for a ‘Waste Transfer’ is the **Duty of Care Document** and the **Consignment Note** is needed for hazardous waste. KnoWaste tracks the organisations and documents shown here.
 
 ## How Waste is Managed <a name="how_waste_is_managed"></a>
 
