@@ -68,7 +68,7 @@ The standard has 3 parts:
 * An electronic **Duty of Care Document** for consistent completion of non-hazardous waste documentation
 * An electronic **Consignment Note** to support consistent completion of hazardous waste documentation
 
-**Unique Identifiers**
+**The Case for Unique Identifiers**
 
 *The secret to making #SmartWaste possible*
 
@@ -87,6 +87,22 @@ Find out more:
 [kds_2]: https://github.com/OpenDataManchester/KnoWaste/blob/master/images/KnoWaste%20-%20Who%20&amp;%20What%20to%20Track%20&amp;%20Audit.png "Who & What to Track & Audit"
 
 In UK waste management, waste is produced by a **Waste Producer** who stores and classifies waste before handing it over to a **Waste Processor**. The **Waste Processor** managea waste till it reaches a final site (for example: landfill) or a final state (for example: recycled). Waste comes in **Waste Containers** and a **Waste Job** could be for several **Waste Containers**. If waste is not hazardous, the main document for a ‘Waste Transfer’ is the **Duty of Care Document** and the **Consignment Note** is needed for hazardous waste. KnoWaste tracks the organisations and documents shown here.
+
+**Important Identifiers**
+![alt text][kds_3]
+
+[kds_3]: https://github.com/OpenDataManchester/KnoWaste/blob/master/images/KnoWaste%20-%20Important%20Identifiers.png "Important Identifiers"
+
+Three key identifiers make tracking waste simpler and easier:
+
+* **Waste Container ID**: Tracks a waste container until it is disposed of or changes - for example, aggregated or separated
+* **Consignment Note ID**: Tracks a hazardous waste job until a new consignment note is created
+* **Duty of Care Document ID**: Tracks a non-hazardous waste job until a new duty of care note is created
+
+**Tracking Waste**
+
+*Knowing “Where is my business waste now?”*
+
 
 ## How Waste is Managed <a name="how_waste_is_managed"></a>
 
