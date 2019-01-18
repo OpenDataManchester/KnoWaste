@@ -10,10 +10,6 @@ Words in **Bold** are important stakeholders, concepts or document for UK busine
 
 ## Introduction
 
-![alt text][fow_1]
-
-[fow_1]: https://github.com/OpenDataManchester/KnoWaste/blob/master/images/KnoWaste%20-%20The%20Future%20of%20Waste%20Is%20Smart.png "KnoWaste - The Future of Waste Is Smart"
-
 **The Future of Waste is Smart**
 
 The UK as a whole is moving towards sustainability by reducing, re-using and recycling. Each nation seeks to preserve resources, minimise waste, send less to landfill, protect our ecology and make a positive impact on climate change. The future of waste is smart waste, efficiently tracking waste to it’s final destination and accountability for waste throughout it’s lifecycle.
@@ -24,10 +20,6 @@ Find out more:
 * [Managing Waste: Scotland](https://www.gov.scot/policies/managing-waste/)
 * [Waste Management Strategy: Northern Ireland](https://www.daera-ni.gov.uk/articles/waste-management-strategy)
 * [Towards Zero Waste: Wales](https://gov.wales/topics/environmentcountryside/epq/waste_recycling/zerowaste/?lang=en)
-
-![alt text][fow_2]
-
-[fow_2]: https://github.com/OpenDataManchester/KnoWaste/blob/master/images/KnoWaste%20-%20Future%20of%20Waste%20Accountability.png "KnoWaste - Future of Waste Accountability"
 
 **Future of Waste Accountability**
 
