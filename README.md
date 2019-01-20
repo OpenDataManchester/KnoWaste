@@ -43,7 +43,7 @@ Efficiently tracking waste is the way to ensure everyone knows where the waste t
 
 **#SmartWaste means smart use of data**
 
-*Stitching together the waste data patchwork*
+*Stitching together the business waste data patchwork*
 
 Smart waste means smart use of data to stitch together the patchwork of today’s waste data including returns from permitted sites, voluntary initiatives and one-off surveys. We know from HM Government’s [Resources and Waste Strategy for England](https://www.gov.uk/government/publications/resources-and-waste-strategy-for-england) that waste data is time-consuming, complex to use and doesn’t support effective tacking of waste crime. We know today’s technologies can help make better use of waste data to become a zero waste society.
 
@@ -103,10 +103,13 @@ Three key identifiers make tracking waste simpler and easier:
 
 *Knowing “Where is my business waste now?”*
 
-
 ## How Waste is Managed <a name="how_waste_is_managed"></a>
 
-Waste management is the process of storing waste, transforming waste into a non-waste state (for example: recycling) or disposing of waste (for example: sending waste to landfill). 
+Managing waste means storing waste, transforming it into a non-waste state (for example: recycling) or disposing of waste (for example: sending waste to landfill). 
+
+![alt text][mw_1]
+
+[mw_1]: https://github.com/OpenDataManchester/KnoWaste/blob/master/images/KnoWaste%20-%20Waste%20Management%20Scenarios.png "Waste Management Scenarios"
 
 When waste is managed, it can be:
 
