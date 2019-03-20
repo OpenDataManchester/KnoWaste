@@ -1,4 +1,4 @@
-KnoWaste Prototype open standard for waste management pathway
+KnoWaste prototype open standard for waste management pathway
 ========
 
 In this repository we present a proposed framework for describing the waste management pathway through development of a prototype open data standard. We explain our approach to developing the prototype, the detail of the prototype, the lessons we’ve learned while developing the prototype, and our proposal for progressing the standard from a prototype to an alpha.
