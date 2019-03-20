@@ -8,8 +8,8 @@ Open Data Manchester developed the prototype standard as part of the [KnoWaste](
 Although the data standard is being developed as part of the KnoWaste project it is independant of it and we see its potential to help improve the tracking of our waste, increase recycling rates and reduce waste crime that costs the UK over [£600 million per year](https://www.gov.uk/government/news/government-steps-up-the-fight-against-waste-criminals). The inability to track waste is not only a UK problem, its impacts on health and the environment are felt around the world on the land and in our oceans.
 
 The prototype standard development team are:
-- Edafe Onerhime [@ekoner](https://twitter.com/ekoner) - Lead designer
-- Jamie Whyte [@northernjamie](https://twitter.com/northernjamie) - Data specialist
-- Julian Tait [@julianlstar](https://twitter.com/Julianlstar) - Project delivery
+  Edafe Onerhime [@ekoner](https://twitter.com/ekoner) - Lead designer
+  Jamie Whyte [@northernjamie](https://twitter.com/northernjamie) - Data specialist
+  Julian Tait [@julianlstar](https://twitter.com/Julianlstar) - Project delivery
 
 If you would like to know more about the development of the data standard, how to get involved then please contact: hello@opendatamanchester.org.uk
